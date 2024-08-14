@@ -4,10 +4,14 @@ version = "0.0.1"
 edition = "2021"
 license = "MIT"
 keywords = [
-    "package manager",
-    "batch install",
-    "program list",
+    "package-manager",
+    "batch-install",
+    "program-list",
     "cross-platform",
+    "programs",
+    "install",
+    "list",
+    "batch",
 ]
 categories = ["command-line-utilities", "cli"]
 description = "This CLI tool install programs in batch or serve as a list of such"

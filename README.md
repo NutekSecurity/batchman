@@ -1,5 +1,7 @@
 # Batchman
 
+![logo](logo.png)
+
 ## ROADMAP
 
 * Install one program on macOS using Homebrew
